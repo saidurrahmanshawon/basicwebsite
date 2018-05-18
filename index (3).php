@@ -1,32 +1,13 @@
 <html>
     <head>
-        <meta name="google-site-verification" content="6EgfXYY4SpBhHMD01ZljONuZZ5VqKSqTShuDn-q-X30" />    
-	    <meta name="propeller" content="79b67de8e570fd9977e79edc1b67eac0" />
+        
 	    <title>LIVE TV</title>
 		<link href="newcss.css" rel="stylesheet" type="text/css">
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 	</head>	
     <body>
     <div style="float:right">
-     <!-- Begin BidVertiser code -->
-<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=798888&bid=1927799" TYPE="text/javascript"></SCRIPT>
-<!-- End BidVertiser code --> </div>
-    <!-- Begin BidVertiser code -->
-<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=798888&bid=1927537" TYPE="text/javascript"></SCRIPT>
-<!-- End BidVertiser code -->
-     <!-- Begin BidVertiser code -->
-<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=798888&bid=1927537" TYPE="text/javascript"></SCRIPT>
-<!-- End BidVertiser code --> 
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ad1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2408629149137962"
-     data-ad-slot="8724414823"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+     
 	<script type="text/javascript" src="//go.oclasrv.com/apu.php?zoneid=1491832"></script>
      
 	<h2 style=color:orange;>Date:<?php
@@ -103,12 +84,8 @@
 			})
 		</script>
     <br /><br /><br /><br /><br />
-     <!-- Begin BidVertiser code -->
-<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=798888&bid=1927537" TYPE="text/javascript"></SCRIPT>
-<!-- End BidVertiser code -->  <!-- Begin BidVertiser code -->
-<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=798888&bid=1927537" TYPE="text/javascript"></SCRIPT>
-<!-- End BidVertiser code --> 
-	<P><B><a href="https://go.pub2srv.com/afu.php?id=1491816">click hare</a></b></p>ad
+     
+	
 	<br /><br /><br /><br />
 	<h1><a href="https://go.pub2srv.com/afu.php?id=1491816">Rtv live</h1><br />
     <iframe width="420" height="300" src="https://www.youtube.com/embed/fyoo6TvwqG4?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -116,15 +93,7 @@
     <iframe width="520" height="400" src="http://159.65.151.181:8081/HDSTMIPL5y547hth/ben_360/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE4IDU6MzI6MzkgUE0maGFzaF92YWx1ZT1sZFF6NDM0WGtlRzN6RlB2SU5UK1J3PT0mdmFsaWRtaW51dGVzPTU=" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
     <iframe width="420" height="300" src="http://185.21.216.136:8554/eleven/abc/dsports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDE4IDY6MTg6NDkgQU0maGFzaF92YWx1ZT1jZnZpd2xHMWp5WDJxMFJzeUdXQlRnPT0mdmFsaWRtaW51dGVzPTI=" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   
     
-    <!-- Begin BidVertiser code -->
-<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=798888&bid=1927537" TYPE="text/javascript"></SCRIPT>
-<!-- End BidVertiser code --> 
-     <!-- Begin BidVertiser code -->
-<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=798888&bid=1927537" TYPE="text/javascript"></SCRIPT>
-<!-- End BidVertiser code --> 
-    <!-- Begin BidVertiser code -->
-<SCRIPT data-cfasync="false" SRC="//bdv.bidvertiser.com/BidVertiser.dbm?pid=798888&bid=1927537" TYPE="text/javascript"></SCRIPT>
-<!-- End BidVertiser code --> 
     </body>
 </html>
